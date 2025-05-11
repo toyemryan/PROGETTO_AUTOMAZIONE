@@ -1,0 +1,2 @@
+# PROGETTO_AUTOMAZIONE
+controllo di un motore DC modello 28PA51G con la NUCLEO-144 STM32H745ZI-Q
